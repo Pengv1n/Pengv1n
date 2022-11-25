@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Georgiy 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, student ecole <img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"  
-                                                                width="20" height="20"> from Russia 🇷🇺</h3>
+                                                                width="15" height="15"> from Russia 🇷🇺</h3>
 
 <!--
 **Pengv1n/Pengv1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
