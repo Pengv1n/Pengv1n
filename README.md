@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, student ecole <img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"  
                                                                 width="15" height="15"> from Russia 🇷🇺</h3>
                                                                 
-<a> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a>
+<a href="https://t.me/pengv1nn"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a>
 <!--
 **Pengv1n/Pengv1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
