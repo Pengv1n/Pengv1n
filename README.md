@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, student ecole <img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"  
                                                                 width="15" height="15"> from Russia 🇷🇺</h3>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengv1n&layout=compact)](https://github.com/Pengv1n/github-readme-stats)
 <!--
 **Pengv1n/Pengv1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
